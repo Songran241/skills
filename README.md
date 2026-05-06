@@ -27,8 +27,7 @@ IntelliOutfit/
 ├── SKILL.md                    # Skill 定义（命令、触发、流程）
 ├── CLAUDE.md                   # 项目说明
 ├── .gitignore
-├── config.example.json         # 配置模板（提交到 Git）
-├── config.json                 # 个人配置（已 gitignore）
+├── config.example.json         # 配置模板
 ├── scripts/
 │   ├── main.py                 # CLI 入口 (recommend / weather / wardrobe / add)
 │   ├── weather.py              # 天气获取（Open-Meteo API，免费无需 Key）
@@ -38,8 +37,7 @@ IntelliOutfit/
 │   ├── dressing-rules.md       # 穿搭法则（温度分层、配色、风格模板）
 │   └── attribute-guide.md      # 衣物属性分类标准
 └── wardrobe/
-    ├── catalog.example.json     # 示例衣橱（提交到 Git）
-    ├── catalog.json             # 个人衣橱（已 gitignore）
+    ├── catalog.example.json     # 示例衣橱
     └── photos/                  # 衣物照片
 ```
 
