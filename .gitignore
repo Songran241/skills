@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Personal data (copy the .example.json files and customize)
+config.json
+wardrobe/catalog.json
+wardrobe/photos/*
+!wardrobe/photos/.gitkeep

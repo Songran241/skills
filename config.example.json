@@ -1,0 +1,16 @@
+{
+  "location": {
+    "name": "你的城市",
+    "latitude": 39.9042,
+    "longitude": 116.4074
+  },
+  "preferences": {
+    "temperature_unit": "celsius",
+    "style_bias": ["minimal", "japanese-casual"],
+    "avoid_colors": []
+  },
+  "cron": {
+    "enabled": false,
+    "time": "07:30"
+  }
+}
