@@ -80,7 +80,3 @@ IntelliOutfit/
 - Python 3（纯标准库，无第三方依赖）
 - [Open-Meteo API](https://open-meteo.com/) — 免费天气数据，无需 API Key
 - Claude Code Skill 框架
-
-## License
-
-MIT
